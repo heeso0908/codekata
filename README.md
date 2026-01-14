@@ -7,3 +7,4 @@
 | :--- | :--- | :--- |
 
 | 26.01.13 | 프로그래머스 입문 1~5번 | [View Notebook](./2601_python_codekata.ipynb) |
+| 26.01.14 | 프로그래머스 입문 6~10번 | [View Notebook](./2601_python_codekata.ipynb) |
