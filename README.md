@@ -9,3 +9,4 @@
 | 26.01.14 | 프로그래머스 입문 6~10번 | [View Notebook](./2601_python_codekata.ipynb) |
 | 26.01.15 | 프로그래머스 입문 11~15번 | [View Notebook](./2601_python_codekata.ipynb) |
 | 26.01.16 | 프로그래머스 입문 16~20번 | [View Notebook](./2601_python_codekata.ipynb) |
+| 26.01.18 | 프로그래머스 입문 21~25번 | [View Notebook](./2601_python_codekata.ipynb) |
