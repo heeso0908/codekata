@@ -18,3 +18,4 @@
 | 26.02.06 | 프로그래머스 Lv.3 45번 | [View Notebook](./2602_python_codekata.ipynb) |
 | 26.02.09 | 프로그래머스 Lv.3 46번 | [View Notebook](./2602_python_codekata.ipynb) |
 | 26.02.10 | 프로그래머스 Lv.3 47번 | [View Notebook](./2602_python_codekata.ipynb) |
+| 26.02.11 | 프로그래머스 Lv.3 48번 | [View Notebook](./2602_python_codekata.ipynb) |
