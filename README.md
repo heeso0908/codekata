@@ -25,3 +25,4 @@
 | 26.02.20 | 프로그래머스 Lv.3 52번 | [View Notebook](./2602_python_codekata.ipynb) |
 | 26.02.23 | 프로그래머스 Lv.3 53번 | [View Notebook](./2602_python_codekata.ipynb) |
 | 26.02.24 | 프로그래머스 Lv.3 54번 | [View Notebook](./2602_python_codekata.ipynb) |
+| 26.02.27 | 프로그래머스 Lv.3 55번 | [View Notebook](./2602_python_codekata.ipynb) |
